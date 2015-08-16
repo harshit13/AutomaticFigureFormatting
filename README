@@ -1,0 +1,6 @@
+EDIT EPS GRAPHS (MATLAB, The Mathworks, Inc. Version 8.5.0.197613)  WITH SOME FUNCTIONALITIES
+
+1. To run :-
+	Use command : ./run.sh <inputfilename> <outputfilename>
+
+2. Choose from options to edit your file with appropriate functionalities
